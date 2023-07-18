@@ -1,6 +1,5 @@
 # GeneSeqML
 Empowering Gene Function Prediction through DNA Sequencing and Machine Learning
-Certainly! Here are some introductory lines you can use to provide an overview of the project, dataset, and results in a tabular format:
 
 **Project Overview:**
 An intelligent classification model that harnesses the potential of DNA sequencing and machine learning to predict gene function, enabling precise annotations and deeper understanding of genetic information
